@@ -5,14 +5,14 @@ Desafio! Crie seu Próprio Pipeline de ETL
 
 
 <p align="center">
-    <img width="100" src="https://github.com/Sandrapenha01/powerbi-newforsp/blob/main/ImgProjectPowerBI.png">
+    <img width="100" src="IMG EM BREVE">
 </p>
 
 -------
 
 <p align="center">
   <img 
-    src="https://github.com/Sandrapenha01/powerbi-newforsp/blob/main/ImgProjectPowerBI.png"
+    src="IMG EM BREVE"
     width="400"  
   />
 </p>
