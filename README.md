@@ -1,5 +1,6 @@
 # Explorando IA Generativa em um Pipeline de ETL com Python
-REPOSITÒRIO EM CONSTRUÇÂO SER FINALIZADO TOTALMENTW ATÉ 22/10
+REPOSITÓRIO EM CONSTRUÇÃO SER FINALIZADO TOTALMENTW ATÉ 22/10
+
 Desafio! Crie seu Próprio Pipeline de ETL
 
 
