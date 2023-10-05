@@ -27,7 +27,7 @@ Projeto com o objetivo de promover minha autoridade técnica.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ferramenta1]() - Para todo o projeto
+- [Google Colab](https://colab.research.google.com/) - Para todo o projeto
 - [ferramenta2]() - Para formatação de banner
 
 ## 📄 O Projeto
